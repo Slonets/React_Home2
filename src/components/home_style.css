@@ -1,0 +1,36 @@
+h1 {
+    color: #61dafb;
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+}
+
+p {
+    color: #555;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+strong {
+    color: #61dafb;
+}
+
+em {
+    font-style: italic;
+}
+
+.home
+{
+    width: 700px;
+    margin: 0 auto;
+    text-align: justify;
+}
